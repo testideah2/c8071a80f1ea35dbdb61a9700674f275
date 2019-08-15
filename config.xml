@@ -3,9 +3,9 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "dostavka62.ru"
     versionCode = "10"
-    version     = "1.0.0">
+    version     = "1.1.0">
 
-<name>ТЕСТ. Доставка №1</name>
+<name>Доставка №1</name>
 
 <description>
     Доставка роллов, суши, обедов в г. Рязань.
