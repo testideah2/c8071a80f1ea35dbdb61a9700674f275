@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "dostavka62.ru"
     versionCode = "10"
-    version     = "1.2.0">
+    version     = "1.3.0">
 
 <name>Доставка №1</name>
 
@@ -45,10 +45,10 @@
     <icon src="res/android/icon/5ec10967f63865067c6eff4689632dcc.png" density="xxhdpi" />
     <icon src="res/android/icon/cbc3e60ff80b04e068d40db1993c53b1.png" density="xxxhdpi" />
 
-    <splash src="res/android/screen/ab3dd5bd1d6c1503f698034550c7e0e2.png" density="port-hdpi"/>
-    <splash src="res/android/screen/c13ba3c7382a54bcc7c5ae8ebea908bf.png" density="port-ldpi"/>
-    <splash src="res/android/screen/f8c2256b1aeb4c2d2490df93d0dfe138.png" density="port-mdpi"/>
-    <splash src="res/android/screen/2789b0323f98df96d45d9d45688db16c.png" density="port-xhdpi"/>
+    <splash src="res/android/screen/2144991db57b79c2d24922f4b0e3148b.png" density="port-hdpi"/>
+    <splash src="res/android/screen/2e7accc7603c0617e24d20e19a7d021a.png" density="port-ldpi"/>
+    <splash src="res/android/screen/d4c5fb17d44e2f9b8c16cb1494998bee.png" density="port-mdpi"/>
+    <splash src="res/android/screen/30a0a655d71f71ab66d22427ffef6473.png" density="port-xhdpi"/>
 </platform>
 
 <platform name="ios">
