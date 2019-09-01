@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ru.dostavka62.edis"
     versionCode = "10"
-    version     = "1.24.0">
+    version     = "1.25.0">
 
 <name>Доставка №1</name>
 
