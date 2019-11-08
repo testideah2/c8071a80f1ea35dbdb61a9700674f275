@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.dostavka62.app"
         versionCode = "10"
-        version     = "1.35.0">
+        version     = "1.36.0">
 
     <name>Доставка №1</name>
 
